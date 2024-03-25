@@ -1,0 +1,36 @@
+--- ChatGPT: ---
+
+1:
+Bir web developer olmanı istiyorum.
+Proje için bu araçları kullan: HTML, CSS, JavaScript. 
+Web sitesi mobil uyumlu olacak,
+HTML, CSS ve Javascript kodlarini ayrı ayrı yaz lütfen
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisin.
+Yazdığın kodlara açıklama yapma.
+web sitesi bir porfolio sanat galerisi web sitesi ve burada sanat resimlerini paylaşmak istiyorum.
+Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer).
+Sayfamın header bölümünde bir logo olmalı ve aynı şekilde bu logodan bir adette footer bölümünde olmalı.
+Sayfanın içeriğinin galeri görünümünde, her bir ızgarada 4 adet olmak üzere 300x300 boyutlarında resimler yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+Resimlerin üzerine gelindiğinde bir geçiş efektine sahip olması güzel bir detay olur.
+
+2:
+Mobile uyumlu olmamış, tüm css dosyasını düzenleyip yeniden yaz
+
+
+
+--- Copilot Tasarım Aracı: ---
+
+Logo:
+Bir sanat gelerisi logosu, sade bir tasarıma sahip, siyah arkaplana beyaz ile çizilmiş bir gül görseli
+
+2:
+a man like Arthur Morgan holding a rose and smiling face with tear
+
+3:
+a rose from witcher, with geralt of rivia
+
+4:
+kırmızı bir gül çiz ama teknolojik olsun
+
+5:
+Ortaçağdaki bir dükkandaki bir kedinin duygularını yaratıcı bir şekilde serbest bıraktığı bir katarsis sahnesi, digital art, a game club logo
